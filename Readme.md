@@ -16,7 +16,6 @@
 
 ### step 2 : install some package
 * if you want to test locally,you need to install the following packages(That is the same thing in the requirements.txt)
-test
 
 ```python
 pip insall gunicorn   
@@ -39,10 +38,12 @@ numpy
 
 
 ```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
+myserver ="<ec2-54-211-255-161.compute-1.amazonaws.com
+>"
+myuser="<ezatxhrgxitypk
+>"
+mypassword="<d19e8363e900a9aec0f4aed79f77454ec721b86fd4c6bd96a29defc3c20ab725>"
+mydb="<dcetavhc058b9r>"
 
 ```
 ### step 5: import postgredb (in db/postgre.db)
