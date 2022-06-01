@@ -12,7 +12,7 @@
 ### step 1 : Clone this github
 
 。把local的 \aiot0531.git 殺掉 (產生自己的git管理員) 方便建立新的git repository
-。推送至github 建立新的 saver_0601 https://github.com/iamsaver/saver_aiot0601
+。推送至github 建立新的 saver_0601 https://github.com/iamsaver/saveraiot0601
 
 ### step 2 : install some package
 * if you want to test locally,you need to install the following packages(That is the same thing in the requirements.txt)
@@ -74,7 +74,7 @@ Sample link 1:
 https://awinlab-aiot.herokuapp.com/
 
 Sample link 2: 
-https://aiot0529.herokuapp.com/
+https://aiot0601a.herokuapp.com/
 
 
 
