@@ -15,7 +15,9 @@
 。推送至github 建立新的 saver_0601 https://github.com/iamsaver/saver_aiot0601
 
 ### step 2 : install some package
-. if you want to test locally,you need to install the following packages(That is the same thing in the requirements.txt)
+* if you want to test locally,you need to install the following packages(That is the same thing in the requirements.txt)
+test
+
 ```python
 pip insall gunicorn   
 Flask==2.0.1 
