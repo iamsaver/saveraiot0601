@@ -38,12 +38,12 @@ numpy
 
 
 ```sql
-myserver ="<ec2-54-211-255-161.compute-1.amazonaws.com
+myserver ="<ec2-34-227-120-79.compute-1.amazonaws.com
 >"
-myuser="<ezatxhrgxitypk
+myuser="<alcykghivllubp
 >"
-mypassword="<d19e8363e900a9aec0f4aed79f77454ec721b86fd4c6bd96a29defc3c20ab725>"
-mydb="<dcetavhc058b9r>"
+mypassword="<16abea5741ee458e4972f91dc15e24d0d7ed7a5a3560e6ce80002c1dfc7955f2>"
+mydb="<d8al4p5betfiku>"
 
 ```
 ### step 5: import postgredb (in db/postgre.db)
